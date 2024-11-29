@@ -1,4 +1,4 @@
-package strings;
+package string_solutions;
 
 public class strongPassword {
     public static void main(String[] args) {
