@@ -7,9 +7,9 @@ public class hackerrankString {
     public static void main(String[] args) {
         int q = 10;
         for (int input = 0; input < q; input++) {
-            Scanner scan = new Scanner(System.in);
-            String s = scan.nextLine();
-            // String s = "hackerworld";
+            // Scanner scan = new Scanner(System.in);
+            // String s = scan.nextLine();
+            String s = "hackerworld";
 
             String h = "hackerrank";
             String result = "";
@@ -27,6 +27,8 @@ public class hackerrankString {
                 result = "NO";
             }
             System.out.println(result);
+
         }
+
     }
 }
