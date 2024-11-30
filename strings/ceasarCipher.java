@@ -1,4 +1,4 @@
-package string_solutions;
+package strings;
 
 public class ceasarCipher {
 

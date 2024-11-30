@@ -1,4 +1,4 @@
-package string_solutions;
+package strings;
 
 import java.util.Stack;
 

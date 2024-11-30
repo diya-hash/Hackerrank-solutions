@@ -1,3 +1,4 @@
+package strings;
 
 public class funnyString {
     public static void main(String[] args) {

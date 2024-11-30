@@ -1,4 +1,4 @@
-package string_solutions;
+package strings;
 
 public class camelCase {
     public static void main(String[] args) {
